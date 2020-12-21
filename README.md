@@ -3,7 +3,7 @@
 ### Installation 
 
 - Clone the repo locally using `git clone https://github.com/mohit61/redis-frontend.git`
-- Get into the directory `cd redis-unacademy-frontend`
+- Get into the directory `cd redis-frontend`
 - Install the dependencies using `npm install`
 - Start the web-app using  `npm start`
 
